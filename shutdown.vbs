@@ -1,4 +1,4 @@
-REM Windows Shut-Down-Timer
+REM Windows Shutdown
 REM Powerd by http://www.creator110.com
 REM Version 0.1
 
